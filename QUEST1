@@ -1,0 +1,28 @@
+1º Expressão:
+x = 7 + 3 * 6 / 2 - 1
+
+Ordem de Cálculo:
+Multiplicação: 3 * 6 = 18
+Divisão: 18 / 2 = 9
+Adição: 7 + 9 = 16
+Subtração: 16 - 1 = 15
+Valor Final de x: 15
+2º Expressão:
+x = 2 % 2 + 2 * 2 - 2 / 2
+
+Ordem de Cálculo:
+Resto da Divisão: 2 % 2 = 0 (O resto da divisão de qualquer número por 2 é 0)
+Multiplicação: 2 * 2 = 4
+Divisão: 2 / 2 = 1
+Adição: 0 + 4 = 4
+Subtração: 4 - 1 = 3
+Valor Final de x: 3
+3º Expressão:
+x = (3 * 9) * (3 + (9 * 3 / 3))
+
+Ordem de Cálculo:
+Multiplicação dentro dos parênteses: 3 * 9 = 27
+Divisão dentro dos parênteses: 9 * 3 / 3 = 9
+Adição dentro dos parênteses: 3 + 9 = 12
+Multiplicação dos resultados dos parênteses: 27 * 12 = 324
+Valor Final de x: 324
